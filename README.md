@@ -15,12 +15,16 @@
 </p>
 
 <p align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=securesean&layout=compact&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&hide_border=true&border_radius=10&border_color=131313)
+
 </p>
 
 
 <p align="center">
+
 > [!IMPORTANT]  
 > <a href="https://1drv.ms/b/c/4a05c4626c85b368/EYYPTfy2MHVHgtDU6hMrd0QBDCEVUWEk45ZxzArxaOnJ_A?e=OqzqiV" download>Download Resume</a>
+
 </p>
 
