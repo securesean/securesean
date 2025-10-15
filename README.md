@@ -6,7 +6,7 @@
 </a>
  
  <a href="https://www.linkedin.com/in/threatemulator/" >
-<img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthreatemulator%2F&subtitle=Threat+Emulator&size=square)" alt="LinkedIn" /> 
+<img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthreatemulator%2F&subtitle=Threat+Emulator&size=square" alt="LinkedIn" /> 
 </a>
 
  <a href="https://x.comsecure_sean">
